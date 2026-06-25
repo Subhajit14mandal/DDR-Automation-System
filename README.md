@@ -35,31 +35,8 @@ The objective of this project is to automate the process of:
 
 ### Workflow
 
-Inspection Report PDF
-↓
-Text Extraction
+<img width="1024" height="1536" alt="Copilot_20260625_230740" src="https://github.com/user-attachments/assets/f6e90ff3-e3e7-4cab-8403-c3b58acba9b6" />
 
-Thermal Report PDF
-↓
-Text Extraction
-
-↓
-Observation Extraction
-
-↓
-Duplicate Detection & Removal
-
-↓
-Conflict Detection
-
-↓
-Image Extraction & Mapping
-
-↓
-DDR Generation
-
-↓
-DOCX/PDF Report Export
 
 ---
 
